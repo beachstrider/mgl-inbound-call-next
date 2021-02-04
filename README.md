@@ -1,4 +1,4 @@
-# MGL Ringba Application
+# MGL Inbound Call Web Application
 
 ## Project Structure
 
